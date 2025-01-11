@@ -1,0 +1,8 @@
+{
+    "Records": [
+      {
+        "body": "{\"Records\":[{\"s3\":{\"bucket\":{\"name\":\"mock-bucket\"},\"object\":{\"key\":\"mock-email-key\"}}}]}"
+      }
+    ]
+  }
+  
